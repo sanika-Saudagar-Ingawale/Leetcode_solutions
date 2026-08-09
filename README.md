@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0007-reverse-integer) |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Array
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0078-subsets) |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,4 +37,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
