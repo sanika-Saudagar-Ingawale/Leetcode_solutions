@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0078-subsets) |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
