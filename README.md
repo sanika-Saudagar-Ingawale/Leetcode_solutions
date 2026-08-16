@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0078-subsets) |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
