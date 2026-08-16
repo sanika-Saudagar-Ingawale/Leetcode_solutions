@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0078-subsets) |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
