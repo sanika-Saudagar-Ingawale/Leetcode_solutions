@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0018-4sum) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [1140-stone-game-ii](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanika-Saudagar-Ingawale/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
