@@ -1,27 +1,25 @@
 class Solution {
 public:
-    using ll = long long;
-
-    ll gcd(ll a, ll b) {
+    long long gcd(long long a, long long b) {
         while (b) {
-            ll t = a % b;
+            long long temp = a % b;
             a = b;
-            b = t;
+            b = temp;
         }
         return a;
     }
 
-    ll lcm(ll a, ll b) {
+    long long lcm(long long a, long long b) {
         return a / gcd(a, b) * b;
     }
 
-    ll countAmounts(ll x, vector<int>& coins) {
+    long long countWays(long long x, vector<int>& coins) {
         int n = coins.size();
-        ll ans = 0;
+        long long count = 0;
 
-        // Inclusion-exclusion over all subsets
+        // Inclusion-Exclusion
         for (int mask = 1; mask < (1 << n); mask++) {
-            ll L = 1;
+            long long L = 1;
             int bits = 0;
             bool valid = true;
 
@@ -29,9 +27,8 @@ public:
                 if (mask & (1 << i)) {
                     bits++;
 
-                    L = lcm(L, (ll)coins[i]);
+                    L = lcm(L, (long long)coins[i]);
 
-                    // L is already larger than x
                     if (L > x) {
                         valid = false;
                         break;
@@ -41,25 +38,25 @@ public:
 
             if (!valid) continue;
 
-            ll cnt = x / L;
+            long long multiples = x / L;
 
             if (bits % 2 == 1)
-                ans += cnt;
+                count += multiples;
             else
-                ans -= cnt;
+                count -= multiples;
         }
 
-        return ans;
+        return count;
     }
 
     long long findKthSmallest(vector<int>& coins, int k) {
-        ll low = 1;
-        ll high = 1LL * (*min_element(coins.begin(), coins.end())) * k;
+        long long low = 1;
+        long long high = 1LL * (*min_element(coins.begin(), coins.end())) * k;
 
         while (low < high) {
-            ll mid = low + (high - low) / 2;
+            long long mid = low + (high - low) / 2;
 
-            if (countAmounts(mid, coins) >= k)
+            if (countWays(mid, coins) >= k)
                 high = mid;
             else
                 low = mid + 1;
